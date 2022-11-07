@@ -1,8 +1,12 @@
-# Project : Task Tracker
+# Task-Tracker
 
-## Check The Live Website ➡️ [Live Website](https://cooper-tasktracker.netlify.app/)
+### Check The Live Website ➡️ [Live Website](https://sekunev-task-tracker.netlify.app/)
 
-## Visualization of the Website
+### Description
+
+Project aims to create a Task Tracker App.
+
+### Visualization of the Website
 
 ![Form](./TaskTraker-React.gif)
 
