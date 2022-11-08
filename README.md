@@ -16,7 +16,7 @@ Project aims to create a Task Tracker App using React.
 
 ## Learning Outcomes
 
-At the end of the project, you will be able to;
+At the end of the project, you will be able to.;
 
 - improve coding skills within HTML & CSS & JS & ReactJS.
 
